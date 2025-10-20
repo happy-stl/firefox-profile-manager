@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Firefox Profile Manager
+Comment=Manage Firefox profiles with a beautiful GUI
+Exec=python3 {{INSTALL_FILE}}
+Icon=firefox
+Terminal=false
+StartupNotify=true
+Categories=Utility;
+Keywords=firefox;profile;browser;manager;gui;
+StartupWMClass=Firefox Profile Manager
+MimeType=
+Path={{INSTALL_DIR}}
